@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "192.168.87.250",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "192.168.87.250",
+            "database": "BI_LOGISTICA",
+            "username": "logistica",
+            "password": "logisticabls"
+        }
+    ]
+}

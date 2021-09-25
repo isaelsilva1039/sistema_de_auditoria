@@ -1,0 +1,75 @@
+.alrta{
+    background:orangered;
+    color: white;
+    margin-top: 20px;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 40px;
+}
+
+.alrta p {
+    text-align: center;
+    color: white;
+    margin-top: 8px;
+}
+
+.aumento{
+    width: 1465px;
+}
+
+.botao{
+    /* margin-left: 95.4%; */
+    background: green;
+    border:none ;
+    float: right;
+}
+
+.botaoCancela{
+    background: red;
+    border: none;
+    /* height: 38px;
+    width:115px ; */
+    /* top: -20px; */
+    float: right;
+    margin-right: 10px;
+}
+
+.msgTela{
+    background:mediumslateblue;
+    color: white;
+    width: 800px;
+    border: none;
+}
+.divMsg{
+    /* width: 600px; */
+    /* height: 400px; */
+    /* margin-: ; */
+    margin-left: 40%;
+}
+
+
+
+.pai_msg{
+   width: 800px;
+   float: end;
+}
+
+.imgTeladepedidoEmAndamento{
+    height: 700px;
+    width: 600px;
+}
+
+.fixede{
+    position: fixed;
+    /* position: relative; */
+    bottom: 0;
+    z-index: 1;
+}
+
+.font{
+    /* background-color: red; */
+    font-size: xx-small;
+}
